@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner.png" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Amit Anand</h1>
 <h3 align="center">Frontend Developer | Web Enthusiast | Problem Solver</h3>
 
