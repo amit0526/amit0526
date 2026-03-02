@@ -124,4 +124,19 @@ Currently being improved with responsive design and better UI.
 - More Web Projects Coming Soon...
 
 ---
+## 🚀 Live Projects
+
+🛒 Amazon Clone  
+https://amit0526.github.io/amazon-clone/
+
+👕 Myntra Clone  
+https://amit0526.github.io/myntra-clone/
+
+🧮 Calculator  
+https://amit0526.github.io/calculator/
+
+☕ Coffee Shop  
+https://amit0526.github.io/coffee-shop/
+
+---
 
