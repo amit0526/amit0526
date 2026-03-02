@@ -8,9 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+Learner;Building+Interactive+Web+Apps;Future+Full+Stack+Developer" />
 </p>
 
----
-
-- ## 👨‍💻 About Me
+--- 
+## 👨‍💻 About Me
 
 <table>
 <tr>
@@ -22,15 +21,18 @@
 - ⚡ Fun fact: I fix bugs faster after tea ☕
 
 </td>
+
 <td width="40%">
 
-<img src="GIF_FILE_NAME.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 </td>
 </tr>
 </table>
 
+
 ---
+
 
 ### 📫 Contact Me
 - Email: **amit.anand0526@gmail.com**
