@@ -8,15 +8,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+Learner;Building+Interactive+Web+Apps;Future+Full+Stack+Developer" />
 </p>
 
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 ---
 
-### 👨‍💻 About Me
+- ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
 - 🌱 Currently learning **JavaScript, React JS & Backend Development**
 - 💻 I enjoy building interactive and responsive websites
-- 🧠 Interested in logic building and real-world projects
+- 🚀 Interested in logic building and real-world projects
 - ⚡ Fun fact: I fix bugs faster after tea ☕
+
+</td>
+<td width="40%">
+
+<img src="GIF_FILE_NAME.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
