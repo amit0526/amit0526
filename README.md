@@ -24,14 +24,16 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://twitter.com/amitanand0526" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amitanand0526">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/amitanand0526" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/amitanand_0313">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+&nbsp;&nbsp;
 
-<a href="https://instagram.com/amitanand_0313" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/amitanand0526">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
 </p>
 
 ---
