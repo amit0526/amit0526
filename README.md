@@ -123,6 +123,3 @@ Currently being improved with responsive design and better UI.
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit0526&theme=algolia&margin-w=10&margin-h=10"/>
-</p>
