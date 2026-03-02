@@ -76,8 +76,40 @@
 
 ---
 
-### 🚀 Projects
-- Calculator Web Application
+### 🚀 Featured Projects
+
+#### 🛒 Amazon Clone
+A responsive e-commerce website inspired by Amazon.  
+Features product listing UI, navigation bar, cart interface and responsive layout.
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+#### 👕 Myntra Clone
+Frontend clone of Myntra shopping website with modern UI design and styling.
+Includes homepage layout, banners, product cards and responsive design.
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+#### ☕ Coffee Shop Website
+A stylish cafe website with landing page, menu section, and smooth UI layout.
+Designed with focus on visuals and user experience.
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+#### 🧮 Calculator Web App
+A functional calculator that evaluates mathematical expressions including brackets and percentage operations.
+Handles expressions like `2(9+4)` and prevents invalid inputs.
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+#### 🌐 Personal Portfolio Website (Ongoing)
+My personal developer portfolio where I showcase projects, skills and contact information.
+Currently being improved with responsive design and better UI.
+**Tech:** HTML, CSS, JavaScript (and upgrading to React)
 - More Web Projects Coming Soon...
 
 ---
