@@ -133,7 +133,7 @@ https://amit0526.github.io/amazon-clone/
 https://amit0526.github.io/myntra-clone/
 
 🧮 Calculator  
-https://amit0526.github.io/calculator/
+https://amit0526.github.io/devcalc/
 
 ☕ Coffee Shop  
 https://amit0526.github.io/coffee-shop/
