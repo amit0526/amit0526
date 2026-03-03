@@ -141,7 +141,7 @@ Currently being improved with responsive design and better UI.
 
 ---
 
-####💎 Glass 3D Contact Form  
+#### 💎 Glass 3D Contact Form  
 
 A modern glassmorphism contact form with an animated 3D particle background built using Three.js.  
 Features smooth hover 3D effects, real-time form validation, and a responsive UI design.
@@ -161,7 +161,7 @@ Tech: HTML, CSS, JavaScript, Three.js
 ---
 
 
-###🚀 Live Projects
+## 🚀 Live Projects
 
 🛒 Amazon Clone  
 https://amit0526.github.io/amazon-clone/
