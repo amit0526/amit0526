@@ -13,7 +13,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 - 🌱 Currently learning **JavaScript, React JS & Backend Development**
 - 💻 I enjoy building interactive and responsive websites
@@ -22,7 +22,7 @@
 
 </td>
 
-<td width="40%">
+<td width="50%">
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJpbjFkdWdnajQwbm92djZ1Yjl4ZzFjamM5aHN0eXA4NHZvMnBkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" />
 
