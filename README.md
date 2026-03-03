@@ -138,10 +138,30 @@ Handles expressions like `2(9+4)` and prevents invalid inputs.
 My personal developer portfolio where I showcase projects, skills and contact information.
 Currently being improved with responsive design and better UI.
 **Tech:** HTML, CSS, JavaScript (and upgrading to React)
+
+---
+
+####💎 Glass 3D Contact Form  
+
+A modern glassmorphism contact form with an animated 3D particle background built using Three.js.  
+Features smooth hover 3D effects, real-time form validation, and a responsive UI design.
+
+Features:
+- 3D animated particle background
+- Glassmorphism UI design
+- Email & phone validation
+- Date of birth validation (no future dates)
+- Gender selection validation
+- Fully responsive layout
+
+Tech: HTML, CSS, JavaScript, Three.js 
+
 - More Web Projects Coming Soon...
 
 ---
-## 🚀 Live Projects
+
+
+###🚀 Live Projects
 
 🛒 Amazon Clone  
 https://amit0526.github.io/amazon-clone/
