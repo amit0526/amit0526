@@ -1,23 +1,28 @@
 <p align="center">
   <img src="Banner.png" width="100%" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Amit Anand</h1>
-<h3 align="center">Frontend Developer | Web Enthusiast | Problem Solver</h3>
+<h3 align="center">Frontend Developer | Full-Stack Developer in Progress</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+Learner;Building+Interactive+Web+Apps;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Developer;React+Developer;Backend+Developer+in+Progress;Building+Real-World+Web+Apps" />
 </p>
 
---- 
+---
+
 ## 👨‍💻 About Me
 
 <table>
 <tr>
 <td width="50%">
 
-- 🌱 Currently learning **JavaScript, React JS & Backend Development**
-- 💻 I enjoy building interactive and responsive websites
-- 🚀 Interested in logic building and real-world projects
+- 🌱 Currently learning **JavaScript, React.js & Backend Development**
+- ⚙️ Building backend applications with **Node.js & Express.js**
+- 💻 I enjoy building interactive, responsive and user-friendly websites
+- 🗄️ Learning and working with **MongoDB & SQL**
+- 🚀 Interested in **Full-Stack Development** and real-world projects
+- 🧠 Improving my problem-solving and logic-building skills
 - ⚡ Fun fact: I fix bugs faster after tea ☕
 
 </td>
@@ -30,16 +35,16 @@
 </tr>
 </table>
 
+---
+
+## 📫 Contact Me
+
+- **Email:** amit.anand0526@gmail.com
 
 ---
 
+## 🌐 Connect With Me
 
-### 📫 Contact Me
-- Email: **amit.anand0526@gmail.com**
-
----
-
-### 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/amitanand0526">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
@@ -51,35 +56,159 @@
 
 <a href="https://twitter.com/amitanand0526">
 <img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/Amit0526">
+<img src="https://skillicons.dev/icons?i=github" height="45"/></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 👨‍🎨 Frontend
+### 🎨 Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
 </p>
 
-#### ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-EF0078?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+### ⚙️ Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-#### 🗄️ Database
+### 🗄️ Database
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-#### 🔧 Programming
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=canva" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+## 🚀 Current Focus
+
+I'm currently working towards becoming a **Full-Stack Developer**.
+
+- ⚡ Strengthening JavaScript fundamentals
+- ⚛️ Improving React.js skills
+- 🎨 Building modern UIs with Tailwind CSS
+- 🧭 Working with React Router
+- 🟢 Learning backend development with Node.js
+- 🚂 Building APIs with Express.js
+- 🍃 Working with MongoDB
+- 🗄️ Learning SQL databases
+- 🔗 Understanding frontend-backend communication
+- 🛠️ Building real-world projects
+
+---
+
+## 📂 Featured Projects
+
+### 🗂️ Project Showcase Website
+
+A modern and interactive project showcase website built with **React.js**, designed to present projects in a clean, responsive and engaging interface.
+
+**Features:**
+
+- ⚛️ React-based component architecture
+- 🧭 Client-side navigation with React Router
+- 🎨 Responsive UI using Tailwind CSS
+- 🎞️ Smooth animations and transitions with Framer Motion
+- 🎯 Modern icons using React Icons
+- ✨ Smooth scrolling experience
+- 📱 Fully responsive design
+- 🖱️ Interactive UI elements and animations
+
+**Tech:** React.js, React Router, Tailwind CSS, Framer Motion, React Icons, React Smooth Scroll
+
+🔗 **Live Demo:** https://project-showcase-gamma-woad.vercel.app/
+
+---
+
+### 💻 JavaScript Portfolio
+
+A personal developer portfolio built with JavaScript to showcase my skills, projects and development journey.
+
+**Features:**
+
+- 👋 Personal introduction
+- 🛠️ Skills and technologies
+- 📂 Project showcase
+- 📱 Responsive design
+- 📫 Contact section
+- ✨ Interactive UI
+
+**Tech:** HTML, CSS, JavaScript
+
+🔗 **Live Demo:** https://amit-anand-dev.vercel.app/
+
+---
+
+### 🧮 Calculator Web App
+
+A functional calculator that evaluates mathematical expressions, including brackets and percentage operations.
+
+**Features:**
+
+- Mathematical expression evaluation
+- Bracket support
+- Percentage operations
+- Input validation
+- Expressions such as `2(9+4)`
+
+**Tech:** HTML, CSS, JavaScript
+
+🔗 **Live Demo:** https://neocalcapp.vercel.app/
+
+---
+
+### ☕ Coffee Shop Website
+
+A stylish cafe website designed with a focus on visual presentation and user experience.
+
+**Features:**
+
+- Landing page
+- Menu section
+- Responsive layout
+- Modern UI design
+
+**Tech:** HTML, CSS, JavaScript
+
+🔗 **Live Demo:** https://coffee-hub-psi.vercel.app/
+
+---
+
+### 🌐 Personal Portfolio Website
+
+My personal developer portfolio where I showcase my projects, skills and development journey.
+
+**Status:** 🚧 Ongoing
+
+**Tech:** HTML, CSS, JavaScript → React.js
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amit0526&theme=tokyonight" />
 </p>
@@ -96,87 +225,18 @@
 
 ---
 
-### 🔥 Current Focus
-- Improving JavaScript & React skills
-- Learning backend with Node.js & Express
-- Working with MongoDB database
-- Building real-world projects
+## 🎯 Career Goal
+
+I'm working towards becoming a **Full-Stack Developer** and looking for opportunities where I can:
+
+- Build real-world applications
+- Work with experienced developers
+- Improve my frontend and backend skills
+- Contribute to meaningful projects
+- Continue learning modern web technologies
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 More Projects Coming Soon...
 
-#### 🛒 Amazon Clone
-A responsive e-commerce website inspired by Amazon.  
-Features product listing UI, navigation bar, cart interface and responsive layout.
-**Tech:** HTML, CSS, JavaScript
-
----
-
-#### 👕 Myntra Clone
-Frontend clone of Myntra shopping website with modern UI design and styling.
-Includes homepage layout, banners, product cards and responsive design.
-**Tech:** HTML, CSS, JavaScript
-
----
-
-#### ☕ Coffee Shop Website
-A stylish cafe website with landing page, menu section, and smooth UI layout.
-Designed with focus on visuals and user experience.
-**Tech:** HTML, CSS, JavaScript
-
----
-
-#### 🧮 Calculator Web App
-A functional calculator that evaluates mathematical expressions including brackets and percentage operations.
-Handles expressions like `2(9+4)` and prevents invalid inputs.
-**Tech:** HTML, CSS, JavaScript
-
----
-
-#### 🌐 Personal Portfolio Website (Ongoing)
-My personal developer portfolio where I showcase projects, skills and contact information.
-Currently being improved with responsive design and better UI.
-**Tech:** HTML, CSS, JavaScript (and upgrading to React)
-
----
-
-#### 💎 Glass 3D Contact Form  
-
-A modern glassmorphism contact form with an animated 3D particle background built using Three.js.  
-Features smooth hover 3D effects, real-time form validation, and a responsive UI design.
-
-Features:
-- 3D animated particle background
-- Glassmorphism UI design
-- Email & phone validation
-- Date of birth validation (no future dates)
-- Gender selection validation
-- Fully responsive layout
-
-Tech: HTML, CSS, JavaScript, Three.js 
-
-- More Web Projects Coming Soon...
-
----
-
-
-## 🚀 Live Projects
-
-🛒 Amazon Clone  
-https://amit0526.github.io/amazon-clone/
-
-👕 Myntra Clone  
-https://amit0526.github.io/myntra-clone/
-
-🧮 Calculator  
-https://amit0526.github.io/devcalc/
-
-☕ Coffee Shop  
-https://amit0526.github.io/coffee-shop/
-
-💎 Glass 3D Contact Form  
-https://amit0526.github.io/Glass-3D-Contact-Form/
-
----
-
+> **Learning → Building → Improving → Repeating.**
