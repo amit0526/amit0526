@@ -46,7 +46,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/amit-anand23>
+<a href="https://linkedin.com/in/amit-anand23">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 &nbsp;&nbsp;
 
