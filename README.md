@@ -39,22 +39,22 @@
 
 ## 📫 Contact Me
 
-- **Email:** amit.anand0526@gmail.com
+- **Email:** amit.anand031020@gmail.com
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/amitanand0526">
+<a href="https://linkedin.com/in/amit-anand23>
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 &nbsp;&nbsp;
 
-<a href="https://instagram.com/amitanand_0313">
+<a href="https://instagram.com/realamitanand">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
 &nbsp;&nbsp;
 
-<a href="https://twitter.com/amitanand0526">
+<a href="https://x.com/AmitAnand761918">
 <img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
 &nbsp;&nbsp;
 
